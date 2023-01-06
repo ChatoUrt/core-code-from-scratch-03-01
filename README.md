@@ -49,3 +49,7 @@ Solution / /
  ```javascript
  'Hardy'
  ```
+
+---
+Knowledge Base
+* [JS variables](https://www.w3schools.com/js/js_variables.asp)
